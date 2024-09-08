@@ -5,3 +5,12 @@
 ## 개요
 <li>2024.04 ~ 2024.06</li>
 <li>2인 팀 프로젝트</li>
+
+<br>
+
+## 전체 기능
+![image](https://github.com/user-attachments/assets/152a68f5-1f4a-4bd2-9a80-35eaed3c7d00)
+
+<br>
+
+## 구현 기능
