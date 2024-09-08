@@ -42,3 +42,7 @@
 
 ## 💡시연 영상
 
+https://github.com/user-attachments/assets/818707a1-6154-4e12-b5a4-1fcab7540191
+
+
+
