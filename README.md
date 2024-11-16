@@ -2,6 +2,9 @@
 
 <br>
 
+![CODE On 소개](https://github.com/user-attachments/assets/18abe6b5-f300-4bc9-8098-fc9995e0af42)
+
+
 ## 🎈개요
 <li>2024.04 ~ 2024.06</li>
 <li>2인 팀 프로젝트</li>
