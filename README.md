@@ -10,7 +10,7 @@
 <br>
 
 ## 🛠️전체 기능
-![image](https://github.com/user-attachments/assets/152a68f5-1f4a-4bd2-9a80-35eaed3c7d00)
+![CODE On Flow](https://github.com/user-attachments/assets/48fe81e2-dd5b-4681-8983-ecfc33143cc9)
 
 <br>
 
