@@ -2,7 +2,7 @@
 
 <br>
 
-![CODE On 소개](https://github.com/user-attachments/assets/18abe6b5-f300-4bc9-8098-fc9995e0af42)
+![CODE On 소개](https://github.com/user-attachments/assets/f6dfd64c-649b-496a-9b61-e25a708879ab)
 
 
 ## 🎈개요
